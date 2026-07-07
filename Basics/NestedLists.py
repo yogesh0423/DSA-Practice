@@ -7,10 +7,12 @@ if __name__ == '__main__':
      
     students.sort()
     studentsCopy = []
+    
     for i in range(len(students)):
         studentsCopy.append(students[i][0])
     
     arr = list(dict.fromkeys(studentsCopy)) 
+
     
     for i in range(len(students)):
         if students[i][0] == arr[1]:
