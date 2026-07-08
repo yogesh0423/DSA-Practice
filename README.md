@@ -17,7 +17,6 @@ This repository contains my daily Python coding practice.
 ```
 Python/
 ├── Basics/
-├── Patterns/
 ├── Functions/
 ├── Strings/
 ├── Lists/
