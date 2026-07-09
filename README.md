@@ -38,11 +38,11 @@ Python/
 
 ## 🎯 Goal
 
-- Improve Python programming skills
-- Build strong DSA fundamentals
-- Practice coding consistently
-- Prepare for technical interviews
-- Track daily learning progress
+- Improve Python programming skills.
+- Build strong DSA fundamentals.
+- Practice coding consistently.
+- Track daily learning progress.
+
 
 ## 🚀 Languages
 
