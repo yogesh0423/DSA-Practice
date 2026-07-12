@@ -17,6 +17,9 @@ This repository contains my daily Python coding practice.
 ```
 Python/
 ├── Basics/
+│   ├── Conditionals
+│   ├── Loops
+│   └── Datatypes
 ├── Functions/
 ├── Strings/
 ├── Lists/
