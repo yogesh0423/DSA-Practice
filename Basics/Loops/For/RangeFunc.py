@@ -9,3 +9,9 @@ for i in range(55, 100, 3):
 #Program 2
 for i in range(30, 4, -1):
     print(i)
+
+#Two range arguments
+
+num = int(input())
+for i in range(1, num+1):
+    print(i)
