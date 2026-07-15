@@ -21,8 +21,16 @@ print(area)
 #Program 6
 a = 10 
 b = 5
-temp = 0
-b = temp 
-a = b
+a, b = b, a
 print(a)
 print(b)
+
+
+#Program 7
+a = int(input())
+if a > 0:
+  print("Positive")
+elif a==0:
+  print("Zero")
+else:
+  print("Negative")
