@@ -21,7 +21,8 @@ Python/
 │   ├── Loops/
 │   │    ├── While
 │   │    └── For
-│   └── Datatypes
+│   ├── Datatypes
+│   └── Revision
 ├── Functions/
 ├── Strings/
 ├── Lists/
@@ -39,6 +40,7 @@ Python/
 │   ├── Graphs
 │   └── Dynamic Programming
 └── Problem Solving/
+    └── PS_set1
 ```
 
 ## 🎯 Goal
