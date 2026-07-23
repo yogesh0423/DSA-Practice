@@ -40,8 +40,9 @@ Python/
 │   ├── Graphs
 │   └── Dynamic Programming
 └── Problem Solving/
-    ├── PS_set2
-    └── PS_set1
+    ├── PS_set
+    ├── PS_set1
+    └── PS_set2
 ```
 
 ## 🎯 Goal
